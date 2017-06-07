@@ -1,0 +1,12 @@
+.jpg
+--totti_10 - Copy (2).jpg - 375976
+--totti_10 - Copy.jpg - 375976
+--totti_10.jpg - 375976
+.txt
+--Notes.txt - 491
+.csproj
+--DirectoryTraversal.csproj - 2707
+.cs
+--DirectoryTraversal.cs - 2023
+.config
+--App.config - 189

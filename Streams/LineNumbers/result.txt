@@ -1,0 +1,5 @@
+1 edno
+2 dve
+3 tri
+4 chetir
+5 pet
